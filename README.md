@@ -7,8 +7,12 @@
 
 三层架构：持久层--Mybatis、表现层--Spring MVC、业务层--JavaBean
 
+运用了声明式事务、SSM整合和不定项表单处理
+
 oa_biz：业务层
 
 oa_dao：持久层
 
 oa_web：表现层
+
+其他文件：编码过滤器、静态资源复制和常量类
